@@ -2,7 +2,7 @@ I'm leaving this sinking ship. If you like this project, checked out the maintai
 
 ---
 
-![Travis Build](https://travis-ci.org/theGreatWhiteShark/climex.svg?branch=master)](https://travis-ci.org/theGreatWhiteShark/climex.svg?branch=master)
+![Travis Build](https://travis-ci.org/theGreatWhiteShark/climex.svg?branch=master)
 
 # Features
 ![leaflet map to handle a lot of station data](res/climex_map.jpeg)
