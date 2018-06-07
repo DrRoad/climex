@@ -1,4 +1,8 @@
-[![Travis Build](https://travis-ci.org/theGreatWhiteShark/climex.svg?branch=master)](https://travis-ci.org/theGreatWhiteShark/climex.svg?branch=master)
+[I'm leaving this sinking ship. If you like this project, checked out the maintained version on [GitLab.com](https://gitlab.com/theGreatWhiteShark/climex).
+
+---
+
+![Travis Build](https://travis-ci.org/theGreatWhiteShark/climex.svg?branch=master)](https://travis-ci.org/theGreatWhiteShark/climex.svg?branch=master)
 
 # Features
 ![leaflet map to handle a lot of station data](res/climex_map.jpeg)
